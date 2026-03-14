@@ -1,3 +1,4 @@
+import cv from '../assets/zhou-sun-cv.pdf'
 import '../css/App.css'
 import '../css/Footer.css'
 
@@ -10,7 +11,7 @@ function Footer() {
           <h2>Curriculum Vitae</h2>
           <ul>
             <li>
-              <a href="/src/assets/zhou-sun-cv.pdf" download="zhou-sun-cv.pdf" target="_blank">
+              <a href={cv} download="zhou-sun-cv.pdf" target="_blank">
                 Download CV
               </a>
             </li>
