@@ -1,0 +1,28 @@
+.navbar__container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 10px;
+}
+
+.navbar__title {
+  font-weight: 800;
+}
+
+.navbar__links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.navbar__link,
+.navbar__link:hover,
+.navbar__link:visited,
+.navbar__link:active {
+  text-decoration: none;
+  color: var(--accent);
+}
+
+.navbar__link:hover,
+.navbar__link:active {
+  color: var(--text);
+}
