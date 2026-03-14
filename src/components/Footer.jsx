@@ -10,7 +10,7 @@ function Footer() {
           <h2>Curriculum Vitae</h2>
           <ul>
             <li>
-              <a href="../assets/zhou-sun-cv.pdf" download="zhou-sun-cv.pdf" target="_blank">
+              <a href="/src/assets/zhou-sun-cv.pdf" download="zhou-sun-cv.pdf" target="_blank">
                 Download CV
               </a>
             </li>
