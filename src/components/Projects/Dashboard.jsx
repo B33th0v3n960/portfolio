@@ -19,7 +19,7 @@ function Dashboard() {
           </a>
         </li>
         <li>
-          <a href="https://dashboard-alpha-gold-34.vercel.app/" target="_blank">
+          <a href="https://dashboard.b33th0v3n.com/" target="_blank">
             <icon>󰖟</icon>website
           </a>
         </li>
