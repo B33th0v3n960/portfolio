@@ -1,4 +1,4 @@
-import cv from '../assets/Zhou-Sun_CV.pdf'
+import cv from '/Zhou-Sun_CV.pdf'
 import '../css/App.css'
 import '../css/Footer.css'
 
